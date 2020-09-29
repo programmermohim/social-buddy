@@ -1,0 +1,29 @@
+.img-circle{
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section{
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 10px;
+}
+.header{
+    background-image: url("./image/header.jpg");
+    background-size: cover;
+    height: 150px;
+}
+.header img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.header h1{
+    font-size: 25pt;
+    color:#3b464c;
+    padding-top: 5px;
+    margin: 0;
+    text-align: center;
+
+}
